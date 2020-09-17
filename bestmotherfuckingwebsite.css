@@ -1,0 +1,70 @@
+html
+{
+    margin: auto;
+    max-width: 105ch;
+    background-color:black; /*not following the motherfucking order in order to keep the motherfucking orders visible*/
+}
+head
+{
+    line-height: 1.2 ;
+}
+body
+{
+    line-height: 1.4 ;
+    font-size: 17px ;
+    font-family: sans-serif;
+    color : #eeeeee;
+}
+small
+{
+    font-size: 8px;
+}
+a
+{
+    color: lightskyblue; /*I'm not the best at guessing the motherfucking colors*/
+}
+.mfw
+{
+    color: crimson ;
+}
+.wr
+{
+    color: orangered;
+    text-decoration: underline;
+    text-decoration-color: orangered;
+}
+.pinklink
+{
+    color: palevioletred;
+}
+.colored
+{
+    animation: color-change 2s infinite;
+}
+@keyframes color-change {
+    0% { color: red; }
+    25% {color: yellow; }
+    50% { color: green; }
+    75% { color: blue; }
+    100% { color: violet; } /*thanks a lot google... Not sure if its the same but I tried my best :'D And hey, as long as it works*/
+}
+.sb
+{
+    color: blue;
+}
+.sv
+{
+    color: darkslateblue; 
+}
+.fakepre
+{
+    font-size: 13px;
+}
+.foufoufou
+{
+    color : #444; /*did'nt find out how to make the motherfucking colorsquare appear, #sad*/
+}
+.foufivfoufivfoufiv
+{
+    color : #454545;
+}
